@@ -1,5 +1,5 @@
 helm-docs:
-	go build github.com/norwoodj/helm-docs/cmd/helm-docs
+	go build github.com/norwoodj/helm-docs/cmd/helm-server
 
 .PHONY: fmt
 fmt:
